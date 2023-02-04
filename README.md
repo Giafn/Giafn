@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @Giafn im a human
+- 👋 Hi, I’m @Giafn im a human like back-end web developer
