@@ -12,5 +12,5 @@ I have a great passion for technology and enjoy creating innovative technology s
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, PHP, Boostrap, Tailwind, Laravel, Vue.Js 
+Javascript, HTML, CSS, PHP, Boostrap, Laravel,
 
