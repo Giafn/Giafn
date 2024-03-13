@@ -7,5 +7,5 @@ I have a great passion for technology and enjoy creating innovative technology s
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, PHP, Boostrap, tailwind, Laravel,
+Javascript, HTML, CSS, PHP, Boostrap, tailwind, Laravel, CodeIgniter
 
