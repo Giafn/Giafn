@@ -4,5 +4,5 @@ As a versatile web developer, I bring a strong blend of backend and frontend exp
 
 
 ## 🛠 Skills
-PHP, nodejs, javascript, golang, python
+PHP, javascript, golang, python, java
 
